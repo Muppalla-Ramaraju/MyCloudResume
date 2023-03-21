@@ -1,0 +1,21 @@
+/*
+---------------------------------------------------------------------------------
+	STRIPPED DOWN RESUME TEMPLATE
+    html resume
+
+    v0.9: 5/28/09
+
+    design and code by: thingsthatarebrown.com 
+                        (matt brown)
+---------------------------------------------------------------------------------
+*/
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #767f8b;
+    background: #f5f5f5;
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
