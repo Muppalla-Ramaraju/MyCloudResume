@@ -1,7 +1,7 @@
 # MyCloudResume
 This repository contains my code for the cloud resume challenge
 
-[AWS Cloud Resume Challenge]([url]https://cloudresumechallenge.dev/) is a project created by Forrest Brazeal to build and test the skills fundamental to a career in Cloud and DevOps space.
+[AWS Cloud Resume Challenge]![URL](https://cloudresumechallenge.dev/) is a project created by Forrest Brazeal to build and test the skills fundamental to a career in Cloud and DevOps space.
 
 The objective of this challenge is to create a resume website analogous to a web service hosted in Enterprise environment. 
 
