@@ -22,3 +22,5 @@ When the website is requested in browser, javascript invokes the lambda function
 CICD Architecture
 
 Github workflows is used to deploy any changes in frontend code to S3 Bucket using github actions
+
+www.ramarajucloudresume.com
