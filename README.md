@@ -1,5 +1,7 @@
 # MyCloudResume
 The website is currently under maintenance. But it should look like below when the frontend files are opened in the browser from your local machine.
+
+
 ![image](https://github.com/Muppalla-Ramaraju/MyCloudResume/assets/79083233/b56214c7-848a-419f-99f3-6683261c23e7)
 
  
