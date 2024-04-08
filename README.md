@@ -1,4 +1,12 @@
 # MyCloudResume
+
+Caution: https://www.ramarajucloudresume.com - The website is currently under maintenance and maybe inaccessible through browser, But the frontend files will work when opened in browser from your local machine.
+
+The website should look as shown below.
+
+![image](https://github.com/Muppalla-Ramaraju/MyCloudResume/assets/79083233/1f2607a0-91fe-466e-b268-8f531da4aa99)
+
+
 This repository contains my code for the cloud resume challenge
 
 [AWS Cloud Resume Challenge](https://cloudresumechallenge.dev/) is a project created by Forrest Brazeal to build and test the skills fundamental to a career in Cloud and DevOps space.
